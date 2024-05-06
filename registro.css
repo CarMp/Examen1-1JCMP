@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+form {
+    margin: 20px 10px;
+    padding: 20px;
+    background-color: rgb(252, 100, 45);
+    color: azure;
+    width: 450px;
+}
+
+.entradas {
+    margin: 10px 5px;
+    display: inline-block;
+    width: 70%;
+}
+
+.entradas div{
+    margin: 10px 0;
+}
+
+.btn-env {
+    background-color: azure;
+    color: coral;
+    border-style: solid;
+    border-color: coral;
+    border-radius: 15px;
+    display: inline-block;
+    width: 20%;
+    height: 50px;
+}
+
+nav {
+    margin: 20px 20px;
+}
+
+nav a{
+    background-color: coral;
+    text-decoration: none;
+    color: azure;
+    font-weight: bold;
+    padding: 8px 11px;
+}
